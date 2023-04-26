@@ -1,4 +1,4 @@
-# sivillage-sample
+# ECR image push sample
 
 ## 사전조건
 1. Docker 설치
